@@ -67,13 +67,13 @@ const awardData = [
     },
     {
         id: 8,
-        title: 'Essential of Data Analytics,
+        title: 'Essential of Data Analytics',
         issuer: 'UniAthena & Acacia University Professional Development',
         date: 'May 2026',
         category: 'certification',
         description: 'A professional development certification covering foundational data analytics frameworks, executive decision-making tools, and core methodologies for extracting actionable business insights.',
         imagePath: 'assets/certificates/certificate-2.jpg'
-},
+    }
 ];
 
 // ==================== 
