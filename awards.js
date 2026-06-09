@@ -66,7 +66,7 @@ const awardData = [
         imagePath: 'assets/certificates/certificate-1.jpg'
     },
     {
-        id: 6,
+        id: 8,
         title: 'Essential of Data Analytics,
         issuer: 'UniAthena & Acacia University Professional Development',
         date: 'May 2026',
